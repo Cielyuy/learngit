@@ -6,3 +6,4 @@ git has a mutable index called stage.
 git is a track of the file
 
 my stupid boss still prefer SVM
+stupid fool
